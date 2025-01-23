@@ -10,7 +10,7 @@ export default function Home() {
     <div className="bg-gray-50">
       <header className="bg-green-600 text-white py-4">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-xl font-bold">Clínica Veterinária PetCare</h1>
+          <h1 className="text-xl font-bold">Clínica Veterinária PetCarePlus</h1>
           <nav className="flex space-x-6">
             <a href="#about" className="hover:underline">
               Quem Somos
